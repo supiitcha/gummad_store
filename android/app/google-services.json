@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559084894145",
+    "project_id": "gummudstoreapplication",
+    "storage_bucket": "gummudstoreapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559084894145:android:4a462d6841195783a4e140",
+        "android_client_info": {
+          "package_name": "com.example.gummad_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559084894145-osam46m88eor3aab7icpl9daob1hqo9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSl0gtx08G7U5cVFY0xPGI8RyguBhGvKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559084894145-osam46m88eor3aab7icpl9daob1hqo9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
